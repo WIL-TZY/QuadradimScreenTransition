@@ -95,9 +95,9 @@ func create_player():
 			"backpack": "res://assets/Images/Composition/CharacterChoice/mochilas/redimensionado/mochila01.png",
 			"ability": [0,0,0,0,0,0,0,0,0],
 			"characters":0,
-			"soundtrack": -20,
-			"soundeffect": -20,
-			"audio_description": -20,
+			"soundtrack": 0, 			# default for music
+			"soundeffect": -20,			# default for sfx
+			"audio_description": +8, 	# default for dub
 #			"current_scene": "access01"
 		}
 	)
