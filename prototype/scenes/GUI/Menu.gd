@@ -3,14 +3,12 @@ extends CanvasLayer
 signal end_menu
 
 func _ready():
-	#$MenuControl/EpisodesBtn.disabled = true
 	$MenuControl/ConfigurationWindow.get_child(0).hide()
 	$MenuAnimation.play("BackgroundChange")
 
 
 func animation_finished():
 	$MenuAnimation.play_backwards("BackgroundChange")
-	#$EpisodesBtn.disabled = false
 
 func _on_StartBtn_button_down():
 	print("Button clicked")
