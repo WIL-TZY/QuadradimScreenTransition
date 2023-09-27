@@ -27,7 +27,7 @@
 [ext_resource path="res://assets/audio/soundtrack/Loop3x.mp3" type="AudioStream" id=25]
 [ext_resource path="res://scenes/AuxScenes/AudioController.tscn" type="PackedScene" id=26]
 [ext_resource path="res://assets/Images/CharacterChoice/mesa.png" type="Texture" id=27]
-[ext_resource path="res://scenes/AuxScenes/Button.tscn" type="PackedScene" id=28]
+[ext_resource path="res://scenes/AuxScenes/ButtonSound.tscn" type="PackedScene" id=28]
 [ext_resource path="res://assets/audio/sound_effects/som de mochila.mp3" type="AudioStream" id=29]
 
 [sub_resource type="StyleBoxFlat" id=3]

@@ -12,7 +12,7 @@
 [ext_resource path="res://assets/Fonts/bebas_neue/BebasNeue-Regular.ttf" type="DynamicFontData" id=10]
 [ext_resource path="res://scenes/AuxScenes/Player.tscn" type="PackedScene" id=11]
 [ext_resource path="res://assets/Images/diary/cartazes.png" type="Texture" id=12]
-[ext_resource path="res://scenes/AuxScenes/Button.tscn" type="PackedScene" id=13]
+[ext_resource path="res://scenes/AuxScenes/ButtonSound.tscn" type="PackedScene" id=13]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.0823529, 0.286275, 0.396078, 1 )

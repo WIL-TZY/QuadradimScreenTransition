@@ -7,7 +7,7 @@
 [ext_resource path="res://assets/Images/Access01_02/Daco_4140150.png" type="Texture" id=5]
 [ext_resource path="res://assets/audio/soundtrack/Loop2-Atualizado.mp3" type="AudioStream" id=7]
 [ext_resource path="res://scenes/AuxScenes/AudioController.tscn" type="PackedScene" id=8]
-[ext_resource path="res://scenes/AuxScenes/Button.tscn" type="PackedScene" id=9]
+[ext_resource path="res://scenes/AuxScenes/ButtonSound.tscn" type="PackedScene" id=9]
 
 [sub_resource type="DynamicFont" id=1]
 size = 20

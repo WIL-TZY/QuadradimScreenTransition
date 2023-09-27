@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://scenes/NucleoBandeirante/EpisodeIntro.gd" type="Script" id=1]
-[ext_resource path="res://scenes/AuxScenes/Button.tscn" type="PackedScene" id=2]
+[ext_resource path="res://scenes/AuxScenes/ButtonSound.tscn" type="PackedScene" id=2]
 [ext_resource path="res://assets/Animation/ezgif.com-gif-maker.webm" type="VideoStream" id=3]
 [ext_resource path="res://assets/Images/Access01_02/mapa-satélite-de-brasília-brasil-ruas-da-cidade-128618769.png" type="Texture" id=4]
 [ext_resource path="res://assets/Images/Access01_02/Daco_4140150.png" type="Texture" id=5]

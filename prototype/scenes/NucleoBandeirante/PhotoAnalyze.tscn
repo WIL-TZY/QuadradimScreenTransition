@@ -15,7 +15,8 @@
 [ext_resource path="res://scenes/AuxScenes/PlayerBackPack.tscn" type="PackedScene" id=13]
 [ext_resource path="res://scenes/AuxScenes/Player.tscn" type="PackedScene" id=14]
 [ext_resource path="res://assets/Images/diary/binoculos2.png" type="Texture" id=15]
-[ext_resource path="res://scenes/AuxScenes/Button.tscn" type="PackedScene" id=16]
+[ext_resource path="res://scenes/AuxScenes/ButtonSound.tscn" type="PackedScene" id=16]
+
 
 [sub_resource type="StyleBoxFlat" id=2]
 bg_color = Color( 0.972549, 0.882353, 0.435294, 1 )

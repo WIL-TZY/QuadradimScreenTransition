@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://assets/audio/sound_effects/click1.mp3" type="AudioStream" id=1]
-[ext_resource path="res://scenes/AuxScenes/Button.gd" type="Script" id=2]
+[ext_resource path="res://scenes/AuxScenes/ButtonSound.gd" type="Script" id=2]
 [ext_resource path="res://assets/Themes/CharacterChoice.tres" type="Theme" id=3]
 
 [node name="Button" type="Button"]

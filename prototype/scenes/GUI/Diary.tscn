@@ -47,7 +47,7 @@
 [ext_resource path="res://assets/Images/diary/Personagens/domingas.png" type="Texture" id=45]
 [ext_resource path="res://assets/Images/diary/Personagens/ranieri.png" type="Texture" id=46]
 [ext_resource path="res://assets/Images/diary/Lupa2.png" type="Texture" id=47]
-[ext_resource path="res://scenes/AuxScenes/Button.tscn" type="PackedScene" id=48]
+[ext_resource path="res://scenes/AuxScenes/ButtonSound.tscn" type="PackedScene" id=48]
 [ext_resource path="res://assets/Images/diary/Personagens/Raulino_bloqueado.png" type="Texture" id=49]
 [ext_resource path="res://assets/Images/diary/Personagens/Diário_de_bordo_bloqueado1.png" type="Texture" id=50]
 [ext_resource path="res://assets/Images/diary/Personagens/diario_de_bordo.png" type="Texture" id=51]
@@ -59,6 +59,7 @@
 [ext_resource path="res://assets/Images/diary/nuc.bandeirante.png" type="Texture" id=57]
 [ext_resource path="res://assets/Images/diary/planopiloto.png" type="Texture" id=58]
 [ext_resource path="res://assets/Images/diary/taguatinga.png" type="Texture" id=59]
+
 
 [sub_resource type="StyleBoxFlat" id=30]
 bg_color = Color( 1, 0, 0, 0 )

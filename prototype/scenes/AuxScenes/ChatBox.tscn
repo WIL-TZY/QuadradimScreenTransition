@@ -7,7 +7,7 @@
 [ext_resource path="res://assets/Images/icons/previous.png" type="Texture" id=5]
 [ext_resource path="res://scenes/AuxScenes/ProfileImages.tscn" type="PackedScene" id=6]
 [ext_resource path="res://scenes/AuxScenes/MainCharacterImage.tscn" type="PackedScene" id=7]
-[ext_resource path="res://scenes/AuxScenes/Button.tscn" type="PackedScene" id=8]
+[ext_resource path="res://scenes/AuxScenes/ButtonSound.tscn" type="PackedScene" id=8]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.945098, 0.933333, 0.905882, 0.843137 )
